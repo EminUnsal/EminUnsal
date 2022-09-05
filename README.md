@@ -17,9 +17,9 @@
 <h2 align="center">Languages and Tools</h2>
 <h4><i>AWS&DevOps :</i></h4>
 <p align="left">
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
  <a href="https://aws.amazon.com/de/ecs/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" alt="aws-ecs" width="40" height="40"/> </a>
- <a href="https://aws.amazon.com/de/ecr/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-ar21.svg" alt="ECR" width="40" height="40"/> </a>
+ <a href="https://aws.amazon.com/de/ecr/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-icon.svg" alt="ECR" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/lambda/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="lambda" width="40" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
