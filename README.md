@@ -41,7 +41,8 @@
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a></p>
 <h3>Where to find me</h3>
 <br>
-<p><a href="https://www.linkedin.com/in/mehmet-emin-unsal-ab2247236/"><img align="left" alt="Mehmet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /><img align="left" alt="Mehmet's GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
+<p><a href="https://www.linkedin.com/in/mehmet-emin-unsal-ab2247236/"><img align="left" alt="Mehmet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://github.com/EminUnsal"><img align="left" alt="Mehmet's GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />
 </a></p>
  
  <br>
