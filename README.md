@@ -18,9 +18,12 @@
 <h4><i>AWS&DevOps :</i></h4>
 <p align="left">
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
+ <a href="https://aws.amazon.com/de/ecs/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" alt="aws-ecs" width="40" height="40"/> </a>
+ <a href="https://aws.amazon.com/de/ecr/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-ar21.svg" alt="ECR" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/lambda/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="lambda" width="40" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
+ <a href="https://rancher.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rancher/rancher-ar21.svg" alt="rancher" width="40" height="40"/> </a>
 <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a> 
