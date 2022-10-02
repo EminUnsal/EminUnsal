@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning AWS
 
-- 🤔 I’m looking for help with Python
+- 🤔 I’m looking for help with Docker
 
 - 💬 Ask me about Python,Aws and Git
 
