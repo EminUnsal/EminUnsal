@@ -46,7 +46,9 @@
 </a></p>
  
  <br>
-##<h2 align="center">AWS Projects</h2>
-|  Name                   |                                                    Description                                                                                                                                     |
-| ----------------------- | :----------------------------------------------------------------------------------------------------------------------------------:                                                               |
-| AWS-CapstoneProject     | [Blog Page Application deployed on AWS ALB with ASG, S3, RDS, VPC's Components, DynamoDB and Cloudfront with Route 53(https://github.com/EminUnsal/My-AWS-Capstone-Project)|
+<h2 align="center">AWS Projects</h2>
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
