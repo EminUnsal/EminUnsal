@@ -51,4 +51,4 @@
 |<p align="left">Name</p> |<p align="left">Description</p>  |
 |----------|:-------------:|
 | AWS Capstone Project | [Blog Page Application deployed on AWS ALB with ASG, S3, RDS, VPC's Components, DynamoDB and Cloudfront with Route 53](https://github.com/EminUnsal/My-AWS-Capstone-Project)  |
-
+- [x] Write the press release
