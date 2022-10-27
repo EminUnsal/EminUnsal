@@ -46,7 +46,7 @@
 </a></p>
  
  <br>
-<h2 align="center">AWS Projects</h2>
+##<h2 align="center">AWS Projects</h2>
 |  Name                   |                                                    Description                                                                                                                                     |
 | ----------------------- | :----------------------------------------------------------------------------------------------------------------------------------:                                                               |
 | AWS-CapstoneProject     | [Blog Page Application deployed on AWS ALB with ASG, S3, RDS, VPC's Components, DynamoDB and Cloudfront with Route 53(https://github.com/EminUnsal/My-AWS-Capstone-Project)|
