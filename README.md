@@ -48,7 +48,7 @@
  <br>
 <h2 align="center">AWS Projects</h2>
 
-| Name   |      Description      |
+| Name| Description |
 |----------|:-------------:|
 | Capstone Project |  Blog Page Application deployed on AWS ALB with ASG, S3, RDS, VPC's Components, DynamoDB and Cloudfront with Route 53 |
 
