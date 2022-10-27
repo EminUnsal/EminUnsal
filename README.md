@@ -47,6 +47,7 @@
  
  <br>
 <h2 align="center">AWS Projects</h2>
+
 | Tables   |      Are      |
 |----------|:-------------:|
 | Capstone Project |  left-aligned |
