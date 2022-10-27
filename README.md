@@ -50,5 +50,5 @@
 
 | Name| Description |
 |----------|:-------------:|
-| AWS Capstone Project |  <b>Blog Page Application deployed on AWS ALB with ASG, S3, RDS, VPC's Components, DynamoDB and Cloudfront with Route 53(https://github.com/EminUnsal/My-AWS-Capstone-Project)</b> |
+| <b>AWS Capstone Project<\b> | Blog Page Application deployed on AWS ALB with ASG, S3, RDS, VPC's Components, DynamoDB and Cloudfront with Route 53(https://github.com/EminUnsal/My-AWS-Capstone-Project) |
 
