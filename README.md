@@ -14,7 +14,7 @@
 
 
 <br><br><br><br><br><br><br><br><br>
-<h2 align="center">Languages and Tools</h2>
+<h2>Languages and Tools</h2>
 <h4><i>AWS&DevOps :</i></h4>
 <p align="left">
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
@@ -46,7 +46,7 @@
 </a></p>
  
  <br>
-<h2 align="center">AWS Projects</h2>
+<h2>AWS Projects</h2>
 
 |<p align="left">Name</p> |<p align="left">Description</p>  |
 |----------|:-------------:|
