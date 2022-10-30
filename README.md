@@ -53,5 +53,6 @@
 |1- AWS Capstone Project|[Blog Page Application deployed on AWS ALB with ASG, S3, RDS, VPC's Components, DynamoDB and Cloudfront with Route 53](https://github.com/EminUnsal/My-AWS-Capstone-Project)|
 |2- Project-001|[Roman Numerals Converter Application deployed on AWS EC2 with Cloudformation and AWS CLI](https://github.com/EminUnsal/MyProjects/tree/main/aws/Project-001-Roman-Numerals-Converter)|
 |3- Project-002|[Phonebook Application deployed on AWS Application Load Balancer with ASG and RDS using AWS Cloudformation](https://github.com/EminUnsal/MyProjects/tree/main/aws/Project-002-Phonebook-Application)|
-
+|4- Project-003|[Kittens Carousel Static Website deployed on AWS EC2 using Cloudformation
+Description](https://github.com/EminUnsal/MyProjects/tree/main/aws/Project-003-kittens-carousel-static-website-ec2)|
 
