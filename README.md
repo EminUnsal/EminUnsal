@@ -61,4 +61,6 @@
 
 |<p align="left">Name</p> |<p align="left">Description</p>  |
 |----------|:-------------:|
-|1- Project-001|[Dockerization of Bookstore Web API (Python Flask) with MySQL](https://github.com/EminUnsal/MyProjects/tree/main/DevOps/Project-203-Dockerization-Bookstore-Api-on-Python-Flask-Mysql/Task)|
+|1- Project-001|[Phonebook App deployed on AWS ALB with ASG and RDS using Terraform](https://github.com/EminUnsal/MyProjects/tree/main/DevOps/Project-202-Terraform-Phonebook-Application-deployed-on-AWS)|
+|2- Project-002|[Dockerization of Bookstore Web API (Python Flask) with MySQL](https://github.com/EminUnsal/MyProjects/tree/main/DevOps/Project-203-Dockerization-Bookstore-Api-on-Python-Flask-Mysql/Task)|
+
