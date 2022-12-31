@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning Kubernetes
 
-- 🤔 I’m looking for help with Docker
-
 - 💬 Ask me about Python,Aws and Git
 
 - 📫 How to reach me: [LnkedIN](https://www.linkedin.com/in/mehmet-emin-unsal-ab2247236/)
