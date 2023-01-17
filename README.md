@@ -8,7 +8,7 @@
 
 - 💬 Ask me about Cloud computing and DevOps tools
 
-- 📫 How to reach me: [LnkedIN](https://www.linkedin.com/in/mehmet-emin-unsal-ab2247236/)
+- 📫 How to reach me: [LnkedIN](https://www.linkedin.com/in/mehmet-emin-unsal-ab2247236/),[XING](https://www.xing.com/profile/Mehmetemin_Uensal)
 
 
 <br><br><br><br><br><br><br><br><br>
